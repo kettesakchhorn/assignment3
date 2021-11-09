@@ -1,0 +1,36 @@
+html {
+    font-family: 'Nunito', sans-serif;
+    background-color: rgba(204, 202, 202, 0.733);
+}
+header {
+    text-align: center;
+}
+.nav ul {
+    text-align: center;
+    font-size: 30px;
+}
+.nav ul>li {
+    display: inline;
+    margin: 20px;
+}
+.nav ul>li:hover {
+    border-bottom: rgb(0, 0, 0) 2px solid;
+}
+.food img {
+    width: 700px;    
+}
+.food div {
+    margin-left: 400px;
+}
+.food div p {
+    width: 500px;
+}
+.tourist img {
+    width: 700px;    
+}
+.tourist div {
+    margin-left: 400px;
+}
+.tourist div p {
+    width: 600px;
+}
